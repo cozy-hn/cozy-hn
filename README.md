@@ -1,4 +1,7 @@
 ### Hi there 👋
+<!--
+[![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Cozy-hn's%20github&fontAlign=50&textBg=false&fontSize=60)](https://github.com/cozy-hn)
+-->
 <hr>
 
 <div>
