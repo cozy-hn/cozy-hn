@@ -18,7 +18,7 @@
   <a href="https://solved.ac/profile/jhk2721">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jhk2721" alt="Solved.ac" width="310" height="150"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://solved.ac/jhk2721">
     <img src="http://mazandi.herokuapp.com/api?handle=jhk2721&theme=dark" width="330" height="153"/>
   </a>
