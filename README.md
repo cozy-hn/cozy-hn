@@ -1,8 +1,11 @@
+<div align="center">
+  <a href="https://github.com/cozy-hn/github-profile-minecraft-readme">
+    <img width="900px" src="https://raw.githubusercontent.com/cozy-hn/github-profile-minecraft-readme/main/profile/profile-minecraft.gif" />
+  </a>
+</div>
+
 # 💫 About Me:
-🔭 I’m currently working on EisenFinance<br>
-<!--
-[![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Cozy-hn's%20github&fontAlign=50&textBg=false&fontSize=60)](https://github.com/cozy-hn)
--->
+🔭 I'm currently working on EisenFinance<br>
 
 <div>
   <a href="https://github.com/cozy-hn">
